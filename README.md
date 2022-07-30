@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm HIMANSHU SINGH</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tkdhimanshusingh&label=Profile%20views&color=0e75b6&style=flat" alt="tkdhimanshusingh" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tkdhimanshusingh" alt="tkdhimanshusingh" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/tkd__himanshu" target="blank"><img src="https://img.shields.io/twitter/follow/tkd__himanshu?logo=twitter&style=for-the-badge" alt="tkd__himanshu" /></a> </p>
-
 - 🔭 I’m currently working on **Backend Development**
 
 - 🌱 I’m currently learning **Django Framework**
@@ -28,10 +22,10 @@
 <a href="https://twitter.com/tkd__himanshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tkd__himanshu" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/engineer-himanshu-singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="engineer-himanshu-singh" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/electronics decoded" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="electronics decoded" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/tkdhimanshu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="tkdhimanshu" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/tkdhimanshu" target="blank"><img align="center" src="https://i.pinimg.com/564x/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" alt="tkdhimanshu" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/tkdhimanshusingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tkdhimanshusingh" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/tkdhimanshusingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tkdhimanshusingh" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@tkdhimanshusingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@tkdhimanshusingh" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@tkdhimanshusingh" target="blank"><img align="center" src="https://pathrise-website-guide-wp.s3.us-west-1.amazonaws.com/guides/wp-content/uploads/2019/09/16223433/69745444_1387833178034603_2227354680902549504_n.jpg" alt="@tkdhimanshusingh" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/tkdhimanshusingh/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/tkdhimanshusingh/profile" height="30" width="40" /></a>
 </p>
 

@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/tkdhimanshusingh](https://github.com/tkdhimanshusingh)
 
-- 💬 Ask me about **Computer Science, Data Structures and Algorithms, Internet of Things, Electronics**
+- 💬 Ask me about **DBMS, Operating Systems, OOPs, Data Structures and Algorithms, Internet of Things(IoT), IIoT, Electronics & Electrical**
 
 - 📫 How to reach me **tkdhimanshusingh@gmail.com**
 

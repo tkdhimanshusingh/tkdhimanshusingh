@@ -29,7 +29,7 @@
 <a href="https://www.hackerearth.com/@tkdhimanshusingh" target="blank"><img align="center" src="https://pathrise-website-guide-wp.s3.us-west-1.amazonaws.com/guides/wp-content/uploads/2019/09/16223433/69745444_1387833178034603_2227354680902549504_n.jpg" alt="@tkdhimanshusingh" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/tkdhimanshusingh/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/tkdhimanshusingh/profile" height="30" width="40" /></a>
 </p>
-<a href="https://codeforces.com/profile/tkdhimanshusingh" target="blank"><img align="center" src="https://codeforces.org/s/16771/images/codeforces-sponsored-by-ton.png" alt="https://codeforces.com/profile/tkdhimanshusingh" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/tkdhimanshusingh" target="blank"><img align="center" src="https://store-images.s-microsoft.com/image/apps.48094.14504742535903781.aedbca21-113a-48f4-b001-4204e73b22fc.503f883f-8339-4dc5-8609-81713a59281f" alt="https://codeforces.com/profile/tkdhimanshusingh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
